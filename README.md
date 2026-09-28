@@ -1,5 +1,6 @@
 # r-toolkit
 R source library and data analysis general functions
+
 # Clinical R Analysis Toolkit
 
 A collection of general R utility functions and source libraries for clinical data analysis, cohort construction, missingness diagnostics, clinical risk scoring, and competing risks workflows.
@@ -8,10 +9,10 @@ A collection of general R utility functions and source libraries for clinical da
 
 ## Repository Contents
 
-* [r-toolkit/source_library.R](R/source_library.R) — Package dependencies, core tidyverse modules, and biostatistics libraries.
+* [R/source_library.R](R/source_library.R) — Package dependencies, core tidyverse modules, and biostatistics libraries.
 * [R/general_function.R](R/general_function.R) — Custom data cleaning, parsing, risk calculators, and visualization helper functions.
 * [.gitignore](.gitignore) — Files and filetypes excluded from tracking (temporary files, cache, and raw clinical datasets).
-
+  
 ---
 
 ## Quick Start / How to Use
