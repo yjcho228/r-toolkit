@@ -23,7 +23,7 @@ Load the library dependencies and utility functions directly into your R session
 
 ```r
 # Load libraries
-source("[https://raw.githubusercontent.com/yjcho228/r-toolkit/main/R/source_library.R](https://raw.githubusercontent.com/yjcho228/r-toolkit/main/R/source_library.R)")
+source("https://raw.githubusercontent.com/yjcho228/r-toolkit/main/source_library.R")
 
 # Load analysis functions
 source("[https://raw.githubusercontent.com/yjcho228/r-toolkit/main/R/general_function.R](https://raw.githubusercontent.com/yjcho228/r-toolkit/main/R/general_function.R)")
