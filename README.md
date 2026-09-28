@@ -9,8 +9,8 @@ A collection of general R utility functions and source libraries for clinical da
 
 ## Repository Contents
 
-* [R/source_library.R](R/source_library.R) — Package dependencies, core tidyverse modules, and biostatistics libraries.
-* [R/general_function.R](R/general_function.R) — Custom data cleaning, parsing, risk calculators, and visualization helper functions.
+* [source_library.R](R/source_library.R) — Package dependencies, core tidyverse modules, and biostatistics libraries.
+* [general_function.R](R/general_function.R) — Custom data cleaning, parsing, risk calculators, and visualization helper functions.
 * [.gitignore](.gitignore) — Files and filetypes excluded from tracking (temporary files, cache, and raw clinical datasets).
   
 ---
